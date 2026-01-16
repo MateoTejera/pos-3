@@ -1,0 +1,7 @@
+{
+  "name": "NovaPOS - Sistema de Punto de Venta Inteligente",
+  "description": "Una plataforma moderna de punto de venta con gestión de inventario, análisis de rentabilidad y proyecciones impulsadas por IA para optimizar el crecimiento de tu negocio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
